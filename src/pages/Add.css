@@ -1,0 +1,85 @@
+/* Assuming Add.css is in the same directory as AddQuiz.jsx */
+.add-quiz-details {
+  margin: auto;
+  width: 60vw;
+  background: linear-gradient(45deg, #3498db, #2c3e50); /* Gradient of blue colors */
+  color: #fff; /* Text color set to white for better visibility */
+  padding: 20px; /* Add padding for better spacing */
+  border-radius: 10px; /* Add rounded corners */
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+}
+
+.quiz-title {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.label-title,
+.label-correct-option,
+.question-label,
+.option-label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px; /* Adjust padding */
+  box-sizing: border-box;
+  border: 1px solid #fff; /* White border */
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.1); /* Semi-transparent white background */
+  color: #fff; /* Text color set to white */
+}
+
+.question-container {
+  margin: 20px 0; /* Adjust vertical margin */
+}
+
+.option-container {
+  margin-bottom: 10px;
+}
+
+.submit-button,
+.add-button {
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Add transition for smooth effect */
+}
+
+.submit-button {
+  background: #3498db; /* Blue color for Submit button */
+}
+
+.add-button {
+  background: #2c3e50; /* Dark blue color for Add button */
+}
+
+.add-button:hover,
+.submit-button:hover {
+  background: #1a2533; /* Darken the color on hover */
+}
+
+.buttons-wrapper {
+  display: flex;
+  justify-content: space-between; /* Adjust spacing between buttons */
+  margin: 20px 0;
+}
+
+.back-button {
+  background-color: transparent;
+  border: none;
+  font-size: 1.5em;
+  cursor: pointer;
+  color: #fff;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}

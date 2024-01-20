@@ -1,0 +1,42 @@
+[
+    {
+      "question": "Qu'est-ce que React.js ?",
+      "optionA": "Une bibliothèque JavaScript pour construire des interfaces utilisateur",
+      "optionB": "Un framework JavaScript pour le développement back-end",
+      "optionC": "Un langage de programmation",
+      "optionD": "Un gestionnaire de base de données"
+    },
+    {
+      "question": "Quel est le rôle de Node.js dans le développement web ?",
+      "optionA": "Exécuter des scripts JavaScript côté serveur",
+      "optionB": "Gérer les requêtes SQL",
+      "optionC": "Construire des interfaces utilisateur réactives",
+      "optionD": "Stocker des données en local",
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quelle est la principale caractéristique d'Express.js ?",
+      "optionA": "Un framework pour construire des interfaces utilisateur",
+      "optionB": "Un langage de programmation",
+      "optionC": "Un gestionnaire de base de données",
+      "optionD": "Un framework pour construire des applications web côté serveur",
+      "correctAnswer": 3
+    },
+    {
+      "question": "Qu'est-ce que JSX dans React.js ?",
+      "optionA": "Un langage de balisage similaire à HTML",
+      "optionB": "Une base de données NoSQL",
+      "optionC": "Un langage de programmation",
+      "optionD": "Un serveur web",
+      "correctAnswer": 0
+    },
+    {
+      "question": "Quel package NPM est utilisé pour créer une application React ?",
+      "optionA": "react-cli",
+      "optionB": "npm-create-react",
+      "optionC": "create-react-app",
+      "optionD": "react-init",
+      "correctAnswer": 2
+    }
+  ]
+  
